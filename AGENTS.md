@@ -1,4 +1,4 @@
-# OpenESC-20x20
+# DroneAid OpenESC-20x20
 
 Open-Source 4-in-1 sensorless BLDC motor Electronic Speed Controller (ESC), 20 x
 20 mm mounting pattern (FPV Drone standard). Part of OpenDrone by Incutec
